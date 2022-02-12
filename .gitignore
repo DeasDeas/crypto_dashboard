@@ -45,3 +45,9 @@ yarn-error.log*
 
 #cred
 .env
+/.idea/jsLinters/eslint.xml
+/.idea/prettier.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/modules.xml
+/.idea/crypto_dashboard.iml
+/.idea/aws.xml
